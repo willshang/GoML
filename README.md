@@ -1,6 +1,10 @@
 # GoML
 Go机器学习
 
+- https://github.com/PacktPublishing/Machine-Learning-With-Go
+- https://github.com/cdipaolo/goml
+- https://github.com/sjwhitworth/golearn
+- https://github.com/gonum/gonum
 ## Go机器学习库
 
 | No.  | 库名     | 地址                                                         | 简介       |
